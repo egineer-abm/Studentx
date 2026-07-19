@@ -1,4 +1,4 @@
-![Studentx Hero](assets/readme/hero.gif)
+![Studentx Hero](assets/readme/hero.svg)
 
 # Engineering Mastery.
 **The definitive curriculum for Computer Systems Engineering.**
