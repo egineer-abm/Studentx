@@ -206,7 +206,39 @@ Agentic AI focuses on building autonomous agents that can plan, reason, and exec
 - **AI Engineer:** https://www.youtube.com/@aiDotEngineer
 - **Dave Ebbelaar:** https://www.youtube.com/@daveebbelaar
 
+---
 
+## Neuromorphic Computing
+
+### Overview
+Neuromorphic computing designs computing systems inspired by the structure and function of the human brain. It uses artificial neurons, synapses, and spike-based communication to perform computation in a highly parallel, event-driven, and energy-efficient manner, enabling real-time sensory processing and cognitive tasks.
+
+### Key Concepts
+- **Spiking Neural Networks (SNNs):** Event-driven computation, spike-timing-dependent plasticity (STDP), Leaky Integrate-and-Fire (LIF) neurons, temporal coding, surrogate gradient learning
+- **Neuromorphic Hardware:** Memristors, neuromorphic chips (Intel Loihi 2, IBM TrueNorth/NorthPole, BrainChip Akida), analog/digital hybrid circuits, NeuroGrid
+- **Brain-Inspired Architectures:** Neural cores, synaptic crossbar arrays, asynchronous circuits, event-driven processing, address-event representation (AER)
+- **Learning Mechanisms:** On-chip local learning, Hebbian learning, STDP, three-factor learning rules, equilibrium propagation
+- **Event-Based Sensing:** Dynamic vision sensors (DVS), event-based audio sensors, neuromorphic tactile sensors, closed-loop neuromorphic systems
+
+### Learning Resources
+- **Books:** "Neuromorphic Engineering" by Liu et al., "Spiking Neuron Models" by Gerstner and Kistler, "Memristive Networks" by Adamatzky, "Neuromorphic Computing and Engineering" by Indiveri
+- **Online Courses:** Intel Neuromorphic Computing Academy, UZH/ETH Neuromorphic Engineering (Coursera), Nengo deep learning tutorials, Telluride Neuromorphic Workshop
+- **Frameworks:** Lava (Intel), Nengo, NEST, Brian2, SNN Torch, Norse, SpikingJelly, Rockpool
+- **Hardware:** Intel Loihi 2, IBM NorthPole, BrainChip Akida, SynSense Speck, Innatera T1
+
+### Practical Projects
+- Implement a spiking neural network for MNIST digit recognition using SNN Torch or Norse
+- Build an event-based vision pipeline using DVS camera data and a neuromorphic processor
+- Simulate a keyword spotting system using a neuromorphic audio processing pipeline
+- Implement STDP-based unsupervised learning on a pattern recognition task
+- Deploy a neuromorphic model on Intel Loihi 2 using the Lava framework
+
+### YouTube Channels (English)
+- **Intel Neuromorphic Community:** https://www.youtube.com/@IntelNeuromorphic
+- **Neuromorphic Engineer:** https://www.youtube.com/@neuromorphic_engineer
+- **Nengo AI:** https://www.youtube.com/@NengoBrainSimulator
+
+---
 
 1. **Pick one field** that aligns with your interests and career goals
 2. **Start with fundamentals** — read the recommended books and take online courses

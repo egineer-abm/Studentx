@@ -90,9 +90,10 @@ Complete mapping of all courses across 8 semesters with direct links to detailed
 | 2 | **Database Management Systems** | 4 | Core |
 | 3 | **Software Engineering** | 3 | Core |
 | 4 | **Instrumentation and Control** | 3 | Core |
+| 6 | **Cybersecurity Engineering** (Elective) | 3 | Elective |
 | 5 | **Probability and Statistics** | 3 | Core |
 
-**Total Credits:** 17
+**Total Credits:** 20
 
 ---
 
@@ -128,6 +129,8 @@ Complete mapping of all courses across 8 semesters with direct links to detailed
 
 | Resource | File |
 |----------|------|
+| **Self-Taught CS Roadmap** | [guides/self-learning-cs.md](guides/self-learning-cs.md) |
+| **Cybersecurity Mastery** | [guides/cybersecurity-mastery.md](guides/cybersecurity-mastery.md) |
 | **Elective Courses** | [electives.md](electives.md) — includes YouTube Channels (English & Hindi/Urdu) for all elective options |
 | **Emerging Fields** | [EmergingFields.md](EmergingFields.md) |
 | **Study Techniques Guide** | [guides/study-techniques.md](guides/study-techniques.md) |
