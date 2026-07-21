@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # Semester 1: Foundations of Engineering & Computing
 
 ## Information and Communication Technologies (ICT)

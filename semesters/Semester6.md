@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # Semester 6: Artificial Intelligence & Software Systems
 
 ## Artificial Intelligence and Machine Learning

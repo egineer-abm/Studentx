@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # Semester 7: Mobile & Cloud Engineering
 
 ## Mobile App Development (Intro to .NET MAUI and MVVM)

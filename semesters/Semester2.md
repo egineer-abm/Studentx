@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # Semester 2: Programming & Circuit Fundamentals
 
 ## Computer Programming (Intro to C++)

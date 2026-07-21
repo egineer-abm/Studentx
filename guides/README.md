@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # Student Guides
 
 This directory contains guides and resources to help students succeed in their academic journey.

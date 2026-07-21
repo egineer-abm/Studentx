@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # Semester 5: Networks & Systems Programming
 
 ## Computer Communications Networks
@@ -164,7 +170,7 @@ Study of microprocessor architecture, assembly language programming, and interfa
 - **Technical Gyan (Hindi):** 8086 microprocessor, assembly programming
 - **EduPoint (Hindi):** Microprocessor 8086, interfacing
 - **Gate Smashers (Hindi):** Microprocessor, assembly language — https://youtube.com/ @GateSmashers 
-- **KnowledgeGate (Hindi):** Microprocessor, 8086 — https://youtube.com/ @KnowledgeGate 
+- **KnowledgeGate (Hindi):** Microprocessor, 8086 — https://youtube.com/@KnowledgeGate 
 - **Engineering in Hindi (Hindi):** Microprocessor architecture
 - **Electronics in Hindi (Hindi):** 8086, peripheral interfacing
 - **Easy Engineering (Hindi):** Microprocessor, assembly language
@@ -205,7 +211,7 @@ Study of digital signal processing fundamentals: discrete-time signals, DFT/FFT,
 - **Module 3:** Z-Transform: ROC, properties, inverse Z-transform, system function, pole-zero analysis
 - **Module 4:** Discrete Fourier Transform (DFT): definition, properties, linear/circular convolution, frequency-domain sampling
 - **Module 5:** Fast Fourier Transform (FFT): radix-2 DIT-FFT, DIF-FFT, computational complexity, applications
-- **Module 6:** FIR Filter Design: window method (rectangular, Hamming, Hanning, Blackman, Kaiser), frequency sampling method, optimal equiripple design (Parks-McClellan)
+- **Module 6:** FIR Filter Design: window method (rectangular, Hamming, Hanning, Blackman, Kaiser), frequency sampling method, optimal equiripple design (Parks-McClure)
 - **Module 7:** IIR Filter Design: analog filter prototypes (Butterworth, Chebyshev, Elliptic), bilinear transformation, impulse invariance, frequency transformations
 - **Module 8:** Filter Implementation: direct form I/II, cascade, parallel, finite word-length effects, quantization
 - **Module 9:** Multirate DSP: decimation, interpolation, polyphase filters, filter banks

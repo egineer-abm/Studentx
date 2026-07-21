@@ -1,3 +1,9 @@
+<!--
+Mentorship Context: CS Mentor
+Skill: cs-mentor
+Feedback Log: ../cs-mentor/references/feedback_log.md
+-->
+
 # The Autodidact's Manifesto: Mastering Computer Science
 
 Traditional institutions offer structure; you are here to build **mastery**. This roadmap is not a checklist—it is a blueprint for developing the mindset, architectural intuition, and practical skills of a world-class engineer without the overhead of a university.
@@ -38,7 +44,7 @@ Theory without application is invisible. Start building early.
 *Goal: Understand security, exploitation, and hardening.*
 
 Security is not a plugin; it is a foundational mindset.
-*   **[Full Guide: Cybersecurity Mastery](guides/cybersecurity-mastery.md)**: A deep-dive guide to offensive and defensive security with curated labs, wargames, and advanced resources.
+*   **[Full Guide: Cybersecurity Mastery](cybersecurity.md)**: A deep-dive guide to offensive and defensive security with curated labs, wargames, and advanced resources.
 *   [**TryHackMe**](https://tryhackme.com/): The premier platform for hands-on, beginner-friendly cybersecurity training.
 *   [**OverTheWire (Bandit)**](https://overthewire.org/wargames/bandit/): Essential for mastering Linux terminal security.
 
