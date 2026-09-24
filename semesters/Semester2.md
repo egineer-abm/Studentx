@@ -146,8 +146,10 @@ Fundamental course in electrical circuit analysis covering DC and AC circuits. E
 - **Mritunjay Lectures:** A specialized platform for technical coursework and lecture-based learning.
 
 #### Reference & Academic Libraries
-- **All About Circuits:** Your primary industry-standard hub for calculators, articles, and community discussions.
+- **[All About Circuits](https://www.allaboutcircuits.com/textbook):** Your primary industry-standard hub for calculators, articles, and community discussions.
 - **Clarkson Document Library:** A faculty-hosted repository often used for sharing specific engineering lecture notes and course materials.
+- [Gary Tuttle Library](https://gtuttle.net/circuits/topics.htm)
+- [The University of Louisville - ECE 220 Network Analysis I](https://engineering.louisville.edu/raise/EE220/AllLessons.html)
 
 ### YouTube Channels (English)
 - **ElectroBOOM:** Circuit analysis with humor
@@ -166,6 +168,7 @@ Fundamental course in electrical circuit analysis covering DC and AC circuits. E
 - **Engineering in Hindi (Hindi):** Circuit analysis, electrical engineering fundamentals
 - **Easy Engineering (Hindi):** Circuit analysis, network theorems
 - **Pak Electronics (Urdu):** Electronics, circuit analysis in Urdu
+- **[Perfect Computer Engineer](https://www.youtube.com/@perfectcomputerengineer):** Cover all major Topics of Linear Cicuit Analysis | [Playlist](https://www.youtube.com/playlist?list=PLPIwNooIb9vjC5Hz7xIUXJw54LkB2MG2i)
 
 ### Software Tools
 - **LTspice:** As a professional engineer, this is essential. It is the industry-standard SPICE simulator. It is free, highly accurate, and perfect for verifying your circuit designs (like power supply regulation or signal conditioning) before committing to a PCB.
